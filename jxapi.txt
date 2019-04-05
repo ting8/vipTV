@@ -2,24 +2,6 @@
 
 <option value="http://yun.mt2t.com/yun?url=">爱奇艺、搜狐、腾讯、乐视、优酷</option>
 
-<option value="http://yyygwz.com/index.php?url=">爱奇艺、搜狐、乐视、芒果、优酷</option>
-
-<option value="http://000o.cc/jx/ty.php?url=">爱奇艺、搜狐、乐视、芒果、优酷</option>
-
-<option value="https://apiv.ga/magnet/">磁力解析</option>
-
-<option value="http://jx.xuanpianwang.com/parse?url=">乐视解析</option>
-
-<option value="http://jx.du2.cc/?url=">⑥号通用vip引擎系统【稳定通用】</option>
-
-<option value="http://jx.ovov.cc/?url=">⑤号通用vip引擎系统【稳定通用】</option>
-
-<option value="http://jx.618ge.com/?url=">④号通用vip引擎系统【稳定通用】</option>
-
-<option value="http://vip.jlsprh.com/?url=">③号通用vip引擎系统【稳定通用】</option>
-
-<option value="http://jx.aeidu.cn/index.php?url=">②号通用vip多线路系统【稳定通用】</option> 
-
-<option value="http://jx.598110.com/?url=">①号通用vip引擎系统【稳定通用】</option> 
+<option value="http://api.baiyug.vip/index.php?url=">百域阁（推荐）</option>
 
 </select>
