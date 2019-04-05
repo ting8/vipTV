@@ -1,6 +1,6 @@
 
 //API更新
 <jxapi>
-<jxapibb>fales</jxapibb>//解析API版本，fales代表本地API不存在，启动下载API文件
+<jxapibb>1.1</jxapibb>//解析API版本，fales代表本地API不存在，启动下载API文件
 <url>https://ting8.github.io/xiaoTV/jxapi.txt</url>
 </jxapi>
