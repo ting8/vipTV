@@ -4,4 +4,7 @@
 
 <option value="http://api.baiyug.vip/index.php?url=">百域阁（推荐）</option>
 
+<option value="https://660e.com/?url=">万能解析</option>
+
+
 </select>
