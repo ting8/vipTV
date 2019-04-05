@@ -1,1 +1,6 @@
-<jxapi>fales</jxapi>//解析API开关，fales代表本地API不存在，启动下载API文件
+
+//API更新
+<jxapi>
+<jxapibb>fales</jxapibb>//解析API版本，fales代表本地API不存在，启动下载API文件
+<url>juting.vip</url>
+</jxapi>
