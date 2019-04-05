@@ -1,15 +1,5 @@
 <select>
 
-<option value="https://api.47ks.com/webcloud/?v=">优酷、乐视、搜狐、爱奇艺、腾讯（优酷1080p）</option>
-
-<option value="https://aikan-tv.com/tong.php?url=">优酷、乐视、搜狐、爱奇艺</option>
-
-<option value="https://aikan-tv.com/tong.php?url=">腾讯vip接口（腾讯超清)</option>
-
-<option value="http://www.yydy8.com/Common/?url=">通用vip接口（清晰度一般）</option>
-
-<option value="http://www.97zxkan.com/jiexi/97zxkanapi.php?url=">通用vip接口(清晰度渣)</option>
-
 <option value="http://yun.mt2t.com/yun?url=">爱奇艺、搜狐、腾讯、乐视、优酷</option>
 
 <option value="http://yyygwz.com/index.php?url=">爱奇艺、搜狐、乐视、芒果、优酷</option>
