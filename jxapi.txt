@@ -15,6 +15,9 @@
 <option value="http://jx.52a.ink/?url=">我爱解析</option>
 
 
+<option value="https://jx.wslmf.com/?url=">流氓凡解析</option>
+
+
 
 
 </select>
