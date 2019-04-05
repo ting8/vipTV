@@ -6,9 +6,13 @@
 
 <option value="https://660e.com/?url=">万能解析</option>
 
-<option value="http://api.ledboke.com/?url=">多功能接口</option>
+<option value="http://api.ledboke.com/?url=">多功能接解析</option>
 
 <option value="http://jx.98a.ink/vip/?url=">独立接口</option>
+
+<option value="http://jx.ledboke.com/?url=">阿卡丽解析</option>
+
+<option value="http://jx.52a.ink/?url=">我爱解析</option>
 
 
 
