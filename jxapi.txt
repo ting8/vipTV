@@ -1,135 +1,35 @@
-﻿<jxapi>
+<select>
 
-iqiyi={
+<option value="https://api.47ks.com/webcloud/?v=">优酷、乐视、搜狐、爱奇艺、腾讯（优酷1080p）</option>
 
-@百域阁="http://api.baiyug.vip/index.php?url="
+<option value="https://aikan-tv.com/tong.php?url=">优酷、乐视、搜狐、爱奇艺</option>
 
-@02="http://api.baiyug.cn/vip/index.php?url="
+<option value="https://aikan-tv.com/tong.php?url=">腾讯vip接口（腾讯超清)</option>
 
-@03="http://jx.2012net.com/index.php?url="
+<option value="http://www.yydy8.com/Common/?url=">通用vip接口（清晰度一般）</option>
 
-@04="http://www.maoyun.tv/Client/sp/index.php?url="
+<option value="http://www.97zxkan.com/jiexi/97zxkanapi.php?url=">通用vip接口(清晰度渣)</option>
 
-@05="http://www.19fa.com/vip.php?url="
+<option value="http://yun.mt2t.com/yun?url=">爱奇艺、搜狐、腾讯、乐视、优酷</option>
 
-@06="https://player.dengtian.org/ipsign/player.php?v="
+<option value="http://yyygwz.com/index.php?url=">爱奇艺、搜狐、乐视、芒果、优酷</option>
 
-@07="http://seohaochen.com/apiget.php?url="
+<option value="http://000o.cc/jx/ty.php?url=">爱奇艺、搜狐、乐视、芒果、优酷</option>
 
-@08="http://y.qin52.com/xnflv/index.php?url="
+<option value="https://apiv.ga/magnet/">磁力解析</option>
 
-@09="https://yun.glcw.cc:444/plays/?url="
+<option value="http://jx.xuanpianwang.com/parse?url=">乐视解析</option>
 
-};
+<option value="http://jx.du2.cc/?url=">⑥号通用vip引擎系统【稳定通用】</option>
 
-qq={
+<option value="http://jx.ovov.cc/?url=">⑤号通用vip引擎系统【稳定通用】</option>
 
-@01="http://www.52jiexi.com/tong.php?url="
+<option value="http://jx.618ge.com/?url=">④号通用vip引擎系统【稳定通用】</option>
 
-@02="http://www.maoyun.tv/Client/sp/index.php?url="
+<option value="http://vip.jlsprh.com/?url=">③号通用vip引擎系统【稳定通用】</option>
 
-@03="http://seohaochen.com/apiget.php?url="
+<option value="http://jx.aeidu.cn/index.php?url=">②号通用vip多线路系统【稳定通用】</option> 
 
-@04="http://www.19fa.com/vip.php?url="
+<option value="http://jx.598110.com/?url=">①号通用vip引擎系统【稳定通用】</option> 
 
-@05="http://jx.10087.tv/?url="
-
-@06="https://player.dengtian.org/ipsign/player.php?v="
-
-@07="http://j.zz22x.com/jx/?url="
-
-@08="http://y.qin52.com/xnflv/index.php?url="
-
-@09="https://yun.glcw.cc:444/plays/?url="
-
-};
-
-mgtv={
-
-@01="http://www.52jiexi.com/tong.php?url"
-
-@02="http://jx.10087.tv/?url="
-
-@03="http://www.maoyun.tv/Client/sp/index.php?url="
-
-@04="http://seohaochen.com/apiget.php?url="
-
-@05="http://jiexi.92fz.cn/player/vip.php?url="
-
-@06="https://player.dengtian.org/ipsign/player.php?v="
-
-@07="http://j.zz22x.com/jx/?url="
-
-@08="http://y.qin52.com/xnflv/index.php?url="
-
-@09="https://yun.glcw.cc:444/plays/?url="
-
-};
-
-letv={
-
-@01="http://www.52jiexi.com/tong.php?url="
-
-@02="http://jiexi.92fz.cn/player/vip.php?url="
-
-@03="http://www.maoyun.tv/Client/sp/index.php?url="
-
-@04="http://www.19fa.com/vip.php?url="
-
-@05="http://api.zuilingxian.com/jiexi.php?url="
-
-@06="https://player.dengtian.org/ipsign/player.php?v="
-
-@07="http://j.zz22x.com/jx/?url="
-
-@08="http://y.qin52.com/xnflv/index.php?url="
-
-@09="https://yun.glcw.cc:444/plays/?url="
-
-};
-
-youku={
-
-@01="http://www.52jiexi.com/tong.php?url="
-
-@02="http://jx.10087.tv/?url="
-
-@03="http://jx.2012net.com/index.php?url="
-
-@04="http://www.maoyun.tv/Client/sp/index.php?url="
-
-@05="http://jiexi.92fz.cn/player/vip.php?url="
-
-@06="https://player.dengtian.org/ipsign/player.php?v="
-
-@07="http://j.zz22x.com/jx/?url="
-
-@08="http://y.qin52.com/xnflv/index.php?url="
-
-@09="https://yun.glcw.cc:444/plays/?url="
-
-};
-
-sohu={
-
-@01="http://www.52jiexi.com/tong.php?url="
-
-@02="http://jiexi.92fz.cn/player/vip.php?url="
-
-@03="http://www.19fa.com/vip.php?url="
-
-@04="http://www.maoyun.tv/Client/sp/index.php?url="
-
-@05="http://seohaochen.com/apiget.php?url="
-
-@06="https://player.dengtian.org/ipsign/player.php?v="
-
-@07="http://j.zz22x.com/jx/?url="
-
-@08="http://y.qin52.com/xnflv/index.php?url="
-
-@09="https://yun.glcw.cc:444/plays/?url="
-
-};
-
-</jxapi>
+</select>
