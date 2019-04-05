@@ -2,7 +2,7 @@
 
 iqiyi={
 
-@01="http://www.52jiexi.com/tong.php?url="
+@百域阁="http://api.baiyug.vip/index.php?url="
 
 @02="http://api.baiyug.cn/vip/index.php?url="
 
