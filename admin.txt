@@ -1,6 +1,6 @@
 
 //API更新
 <jxapi>
-<jxapibb>1.2</jxapibb>//解析API版本
+<jxapibb>1.3</jxapibb>//解析API版本
 <url>https://ting8.github.io/xiaoTV/jxapi.txt</url>//地址
 </jxapi>
