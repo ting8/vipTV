@@ -2,6 +2,8 @@
 
 <option value="http://yun.mt2t.com/yun?url=">爱奇艺、搜狐、腾讯、乐视、优酷</option>
 
+<option value="http://api.987tv.cn:520/svip/?url=">987(推荐使用)</option>
+
 <option value="http://api.baiyug.vip/index.php?url=">百域阁（推荐）</option>
 
 <option value="https://660e.com/?url=">万能解析</option>
