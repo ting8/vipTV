@@ -1,1 +1,1 @@
-{"vsi":"1.1","txt":"\测试更新\n2,测试更新\n3测试更新","url":"www.baidu.com"}
+{"vsi":"1.0","txt":"\测试更新\n2,测试更新\n3测试更新","url":"www.baidu.com"}
