@@ -1,1 +1,1 @@
-{"vsi":"1.1","txt":"\修复幽灵的手机不能显示推荐页面的bug\n2,测试更新\n3测试更新","url":"https://www.lanzous.com/i7k1ocj"}
+{"vsi":"2.1","txt":"\修复幽灵的手机不能显示推荐页面的bug\n2,测试更新\n3测试更新","url":"https://www.lanzous.com/i7k1ocj"}
